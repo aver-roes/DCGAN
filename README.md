@@ -1,1 +1,4 @@
-# DCGAN
+# Deep Convolutional GANS Implementation
+
+
+
